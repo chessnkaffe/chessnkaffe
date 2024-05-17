@@ -1,9 +1,5 @@
 // form.js
 
-
-    // API key for authentication
-    //const apiKey = 'AIzaSyBWIwDnTlmlA6cvM9OWLKg6ntFxX63s5NA';
-
     // Handle form submission
     document.getElementById('contactForm').addEventListener('submit', async function(event) {
     event.preventDefault(); // Prevent the default form submission
